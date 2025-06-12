@@ -1,6 +1,6 @@
 # BGFG
 BGFG is a 2D platformer puzzle game but player move in a 3D world. In this world, player can either move in the left/right plane, or the top/down plane. 
-In order for player to reach their goal, they need to switch beteen two planes so that they can avoid the various obstacles along the way.
+In order for player to reach their goal, they need to switch between two planes so that they can avoid the various obstacles along the way.
 
 # Engine Version 
  [Version 6000.0.26f1](https://unity.com/releases/editor/whats-new/6000.0.26#installs)
