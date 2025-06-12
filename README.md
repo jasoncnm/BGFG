@@ -13,6 +13,7 @@ In order for player to reach their goal, they need to switch beteen two planes s
 # Game Show Case
 
 ![Alt text](https://github.com/jasoncnm/BGFG/blob/main/ScreenShot/ScreenShot4.png?raw=true)
+
 ![Alt text](https://github.com/jasoncnm/BGFG/blob/main/ScreenShot/ScreenShot3.png?raw=true)
 
 ![Alt text](https://github.com/jasoncnm/BGFG/blob/main/ScreenShot/ScreenShot1.png?raw=true)
