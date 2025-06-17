@@ -24,5 +24,5 @@ In order for player to reach their goal, they need to switch between two planes 
 
 * Video Demo
 
-[Demo](https://youtu.be/SkVIQjoEBeY)
+   [Demo](https://youtu.be/SkVIQjoEBeY)
 
